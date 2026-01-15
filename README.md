@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m a dedicated Artificial Intelligence and Data Science student, willing to master skills in programming.<br> I have a broad interest in management of the entire Data lifecycles.<br> I'm looking for Internships and gain experiences in the professional environment.
+ I’m a dedicated Artificial Intelligence and Data Science student, willing to master skills in programming.<br> I have a broad interest in management of the entire Data lifecycles.<br> Currently focussing on Data Structures & Algorithms,Web Development, Data Analysis and Machine Learning. <br> I'm looking for Internships and gain experiences in the professional environment.
 
 
 ## 🌐 Socials:
